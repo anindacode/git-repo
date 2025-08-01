@@ -6,6 +6,6 @@
     <title>Git Repo</title>
 </head>
 <body>
-    <h1>v5 Update new branch</h1>
+    <h1>v5 Update new</h1>
 </body>
 </html>
